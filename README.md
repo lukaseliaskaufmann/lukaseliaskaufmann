@@ -1,4 +1,4 @@
-# 🏄‍♂️ Lukas ELias Kaufmann
+# 🏄‍♂️ Lukas Elias Kaufmann
 
 **`Artificial Intelligence B.S. Student`**
 
