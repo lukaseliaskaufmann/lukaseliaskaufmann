@@ -2,7 +2,7 @@
 
 **`Artificial Intelligence B.S. Student`**
 
-I'm an artificial intelligence student with a background in electrical engineering, building my version of the digital world one step at a time. All AI and coding projects are developed from the ground up, from ideation and design to solving real-world problems with intelligent systems. My content follows the same approach—carefully crafted from planning to execution, with a focus on making AI and technology more accessible. I share my journey and insights through my projects and content, bridging the gap between theory and real-world applications.
+Artificial Intelligence bachelor student with a background in Electronics.
 
 ---
 
